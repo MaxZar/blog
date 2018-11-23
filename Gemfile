@@ -20,6 +20,8 @@ gem 'webpacker'
 
 gem 'bootstrap-sass'
 gem 'simple_form'
+gem 'cloudinary'
+gem 'dotenv-rails', groups: [:development, :test]
 
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
